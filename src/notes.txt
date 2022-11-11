@@ -1,0 +1,17 @@
+// if(subObj){
+        //     // student found with same professor, studentname, and subject, noew update the marks
+        //     marks = subObj.marks+marks;
+        //     studentDataArr.
+        //     data = {
+        //         name: name,
+        //         data: { sub: sub, marks: marks },
+        //         professorId:professorId
+        //       };
+        //     let update = await studentModel.updateOne({professorId:professorId, name:name},data, {new:true} )
+        //     return res.send({data:update})
+        }
+        // else{
+        //     // student found with same professor and studentname only so need to add new sub and its marks
+
+        //     let studentEntry = await studentModel.updateOne({professorId:professorId, name:name}, data, {new:true})
+        // }

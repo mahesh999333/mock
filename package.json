@@ -1,0 +1,27 @@
+{
+  "name": "mock_assignment",
+  "version": "1.0.0",
+  "description": "assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahesh999333/mock_assignment.git"
+  },
+  "author": "Mahesh Dhage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahesh999333/mock_assignment/issues"
+  },
+  "homepage": "https://github.com/mahesh999333/mock_assignment#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.7.2",
+    "nodemon": "^2.0.20",
+    "validator": "^13.7.0"
+  }
+}
